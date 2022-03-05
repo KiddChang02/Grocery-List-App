@@ -94,8 +94,7 @@
 [![Product Name Screen Shot][product-screenshot]](images/emailList.PNG)
 -->
 
-The intent and purpose behind this project was to build a web app that creates, and deletes a grocery list. It displays the items that the user inputs, and the user is also
-able to edit and either delete a single item or clear the whole list.
+The intent and purpose behind this project was to build a web app that creates, and deletes items in a grocery list. It displays the items that the user inputs, and the user is also able to edit and either delete a single item or clear the whole list.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
