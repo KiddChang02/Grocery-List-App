@@ -40,7 +40,7 @@
 <h3 align="center">Grocery List</h3>
 
   <p align="center">
-    This web app creates, and deletes a grocery list.
+    This web app creates and deletes items in a grocery list.
     <br />
     <a href="https://github.com/KiddChang02/Grocery-List-App"><strong>Explore the docs »</strong></a>
     <br />
